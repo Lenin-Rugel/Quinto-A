@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcomes a la asignatura de Lengua y Literatura.
 
 You can use the [editor on GitHub](https://github.com/Lenin-Rugel/Quinto-A/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+La asignatura de Lengua y Literatura posibilita que el  o la estudiantedesarrollen destrezas para interactuar entre sí y usen la lengua en beneficio de la interacción social. Esto explica, a su vez, la visión de la lengua como área transversal sobre la que se apoyarán otras áreas del aprendizaje escolar.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
