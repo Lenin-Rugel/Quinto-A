@@ -1,14 +1,21 @@
-## Welcomes a la asignatura de Lengua y Literatura.
+## Bienvenidos a la asignatura Lengua y Literatura de Quinto "A" de EGB.
 
 You can use the [editor on GitHub](https://github.com/Lenin-Rugel/Quinto-A/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-La asignatura de Lengua y Literatura posibilita que el  o la estudiantedesarrollen destrezas para interactuar entre sí y usen la lengua en beneficio de la interacción social. Esto explica, a su vez, la visión de la lengua como área transversal sobre la que se apoyarán otras áreas del aprendizaje escolar.
+La asignatura de Lengua y Literatura posibilita que él o la estudiante desarrollen destrezas para interactuar entre sí y usen la lengua en beneficio de la interacción social. Esto explica, a su vez, la visión de la lengua como área transversal sobre la que se apoyarán otras áreas del aprendizaje escolar.
+
+En el área de Lengua y Literatura se espera que el estudiantado desarrolle las macrodestrezas linguisticas al máximo de sus potencialidades y se convierta en comunicador eficaz interactuando con los otros en una sociedad intercultural y plurinacional en la que vive. 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###  Objetivo del área de Lengua y Literatura
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Utilizar la lengua como un medio de participación  democrática para rescatar, valorar y respetar la diversidad intercultural y plurinacional. 
+
+* Sabes comunicarse desde la producción y comprensión de textos de todo tipo y en toda situación comunicativa para usar y valorar el lenguaje como una herramienta de intercambio social y de expresión personal. 
+
+* Disfrutar desde la función estética del lenguaje, distintos textos literarios y expresar sus emociones mediante el uso adecuado de los distintos recursos literarios.
 
 ```markdown
 Syntax highlighted code block
