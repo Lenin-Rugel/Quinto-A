@@ -81,10 +81,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Comunicación oral y escrita:  
 
 * Kahoo
-
+-
 
 * Quizz 
-
+-
 
 ###  RECURSOS
 * Importancia de la comunicación oral y escrita
